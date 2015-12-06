@@ -12,7 +12,7 @@ Following are step to manage C-Form related sales in ERPNext.
 
 ####Set C-Form Applicability
 
-While creating Sales invoice for the customer, set C-Form applicability in Sales Invoice. In More Info section of Sales Invoice, set field called **Is C-Form Applicable** as **Yes**. Bydefault, this field will have No for a value.
+While creating Sales invoice for the customer, set C-Form applicability in Sales Invoice. In Accounting Details section of Sales Invoice, set field called **Is C-Form Applicable** as **Yes**. Bydefault, this field will have No for a value.
  
 ![C-form]({{docs_base_url}}/assets/img/articles/Selection_0028c9f9a.png)
 
